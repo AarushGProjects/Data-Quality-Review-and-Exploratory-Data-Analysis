@@ -8,7 +8,7 @@ Demographics, Transactions, Address and Customers List.
 
 # View Notebook Here:
 
-https://nbviewer.jupyter.org/github/AarushGProjects/Data-Quality-Check-and-Exploratory-Data-Analysis/blob/main/Quality_Review_EDA_Sales_Data.ipynb
+https://nbviewer.jupyter.org/github/AarushGProjects/Data-Quality-Review-and-Exploratory-Data-Analysis/blob/main/Data_Quality_Review_EDA.ipynb
 
 # View Tableau Dashboard Here:
 
