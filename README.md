@@ -10,6 +10,6 @@ Demographics, Transactions, Address and Customers List.
 
 https://nbviewer.jupyter.org/github/AarushGProjects/Data-Quality-Review-and-Exploratory-Data-Analysis/blob/main/Data_Quality_Review_EDA.ipynb
 
-# View Tableau Dashboard Here
+# View Tableau Dashboard Here:
 
 https://public.tableau.com/profile/aarush.gandhi2577#!/vizhome/SalesReport_16052632224750/Dashboard
